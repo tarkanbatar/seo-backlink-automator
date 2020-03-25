@@ -1,0 +1,360 @@
+{
+	"linkedin":{
+				"USERNAME1":"",
+				"PASSWORD1":"",
+
+                "USERNAME2":"",
+                "PASSWORD2":"",
+
+                "USERNAME3":"",
+                "PASSWORD3":"",
+
+                "USERNAME4":"",
+                "PASSWORD4":"",
+
+                "USERNAME5":"",
+                "PASSWORD5":"",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    },
+
+	"twitter": {
+				"USERNAME1": "",
+				"PASSWORD1": "",
+
+                "USERNAME2": "",
+                "PASSWORD2": "",
+
+                "USERNAME3": "",
+                "PASSWORD3": "",
+
+                "USERNAME4": "",
+                "PASSWORD4": "",
+
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+				},
+
+	"plurk": {
+				"USERNAME1": "",
+				"PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+				},
+
+    "tumblr": {
+                "USERNAME1": "",
+                "PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    },
+    
+    "scoopit": {
+                "USERNAME1": "",
+                "PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    },
+    
+    "instapaper": {
+                "USERNAME1": "",
+                "PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    },
+    
+    "livejournal": {
+        
+                "USERNAME1": "",
+                "PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    },
+    
+    "soupio": {
+        
+                "USERNAME1": "",
+                "PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    },
+    
+    "weheartit": {
+        
+                "USERNAME1": "",
+                "PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    },
+    
+    "pinterest": {
+        
+                "USERNAME1": "",
+                "PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    },
+    
+    "reddit": {
+        
+                "USERNAME1": "",
+                "PASSWORD1": "",
+                
+                "USERNAME2": "",
+                "PASSWORD2": "",
+                
+                "USERNAME3": "",
+                "PASSWORD3": "",
+                
+                "USERNAME4": "",
+                "PASSWORD4": "",
+                
+                "USERNAME5": "",
+                "PASSWORD5": "",
+
+                "USERNAME6":"",
+                "PASSWORD6":"",
+
+                "USERNAME7":"",
+                "PASSWORD7":"",
+
+                "USERNAME8":"",
+                "PASSWORD8":"",
+
+                "USERNAME9":"",
+                "PASSWORD9":"",
+
+                "USERNAME10":"",
+                "PASSWORD10":""
+    }
+    
+    
+}
