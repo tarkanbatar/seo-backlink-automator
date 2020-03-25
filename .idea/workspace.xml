@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a5273ea-90ea-4c11-82b3-ea0d5dd56863" name="Default Changelist" comment="" />
+    <list default="true" id="1a5273ea-90ea-4c11-82b3-ea0d5dd56863" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,11 +87,24 @@
       <workItem from="1583512188214" duration="11429000" />
       <workItem from="1584478479432" duration="19260000" />
       <workItem from="1584737391874" duration="7000" />
+      <workItem from="1585158309803" duration="252000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1585158376048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585158376048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
     <state x="97" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582104820238">
